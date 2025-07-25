@@ -2,5 +2,5 @@
 
 - 👨‍💻 Frontend Developer & Software engineering student.
 - 🌐 Building [Urdu Adab](#) – Online Urdu Book Exchange  
-- 💡 Learning JavaScript, React  
+- 💡 Learning JavaScript, React.
 - 📫 Reach me at: mianafaqalichishti@gmail.com
